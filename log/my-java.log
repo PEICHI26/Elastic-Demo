@@ -1,0 +1,5 @@
+[Practical Java] 16:49:42.695  INFO --- c.p.myelastic.MyelasticApplication       : Starting MyelasticApplication using Java 11.0.15 on RD3-Paggy-Chien with PID 7428 (D:\workspace\myelastic\target\classes started by peggy.chien in D:\workspace\myelastic)
+[Practical Java] 16:49:42.772 DEBUG --- c.p.myelastic.MyelasticApplication       : Running with Spring Boot v2.7.12, Spring v5.3.27
+[Practical Java] 16:49:42.780  INFO --- c.p.myelastic.MyelasticApplication       : No active profile set, falling back to 1 default profile: "default"
+[Practical Java] 16:50:01.687  INFO --- c.p.myelastic.MyelasticApplication       : Started MyelasticApplication in 25.766 seconds (JVM running for 27.74)
+[Practical Java] 16:50:42.514  INFO --- c.p.m.Controller.DefaultController       : Welcome to the first api
