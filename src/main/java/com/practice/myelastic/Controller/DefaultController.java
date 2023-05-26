@@ -12,6 +12,6 @@ public class DefaultController {
 	@GetMapping(value = "/welcome")
 	public String welcome(){
 		log.info("Welcome to the first api");
-		return "Welcome to my first api !!!";
+		return "Welcome to my first api !!!!!";
 	}
 }
